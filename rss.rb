@@ -1,4 +1,4 @@
-#! /bin/ruby
+#! /usr/local/bin/ruby
 
 require 'rss'
 require 'open-uri'
